@@ -1,45 +1,45 @@
 * Установка на Windows
 
 ** Скачать Setup.exe
-file:mpv-shot0069.jpg
+[[file:mpv-shot0069.jpg]]
 
 ** Запустить Setup.exe и произвести установку
-file:mpv-shot0070.jpg
+[[file:mpv-shot0070.jpg]]
 
-file:mpv-shot0071.jpg
+[[file:mpv-shot0071.jpg]]
 
-file:mpv-shot0072.jpg
+[[file:mpv-shot0072.jpg]]
 
 ** Запустить Delta Chat и авторизоваться
 Для авторизации использовать наш почтовый сервер в качестве транспорта, смотри скриншоты по настройке ниже.
 
-file:mpv-shot0073.jpg
+[[file:mpv-shot0073.jpg]]
 
 Выбрать использовать другой сервер
-file:mpv-shot0075.jpg
+[[file:mpv-shot0075.jpg]]
 
 Из списка выбрать классический e-mail логин
-file:mpv-shot0076.jpg
+[[file:mpv-shot0076.jpg]]
 
 Указать вашу почту и пароль
-file:mpv-shot0077.jpg
+[[file:mpv-shot0077.jpg]]
 
 
 ** Добавление чат группы
 Нажать на плюс внизу
-file:mpv-shot0078.jpg
+[[file:mpv-shot0078.jpg]]
 
 Нажать новый контакт
-file:mpv-shot0079.jpg
+[[file:mpv-shot0079.jpg]]
 
 Нажать шестеренку
-file:mpv-shot0080.jpg
+[[file:mpv-shot0080.jpg]]
 
 Выбрать вставить из клипборда
-file:mpv-shot0081.jpg
+[[file:mpv-shot0081.jpg]]
 
 Подтвердить вход в чат группу
-file:mpv-shot0082.jpg
+[[file:mpv-shot0082.jpg]]
 
 Подождать несколько минут автоматического подтверждения (о отправителя ссылки на чат группу должен быть запущен клиент Delta Chat)
-file:mpv-shot0083.jpg
+[[file:mpv-shot0083.jpg]]
