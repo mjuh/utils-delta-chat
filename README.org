@@ -1,6 +1,7 @@
 * Установка на Windows
 
 ** Скачать Setup.exe
+[[https://delta.chat/ru/download][https://delta.chat/ru/download]]
 [[file:mpv-shot0069.jpg]]
 
 ** Запустить Setup.exe и произвести установку
